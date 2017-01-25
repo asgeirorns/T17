@@ -1,0 +1,40 @@
+set GroupsNames :=
+AA16B
+AB16B
+BA16B
+BB16B
+AA14B
+AB14B
+BA14B
+BB14B
+BC14B
+CA14B
+CB14B
+AA16G
+BA16G
+AA14G
+AB14G
+BA14G
+BB14G
+;
+
+
+
+
+set Groups[AA16B] :=StjarnanA1B16 NorwichAB16 KeflavikAB16 ValurAB16;
+set Groups[AB16B] :=StjarnanA2B16 ThrotturAB16 HKAB16 NjardvikAB16;
+set Groups[BA16B] :=StjarnanB1B16 BreidablikB2B16 KeflavikBB16 O7VesturBB16 IABB16;
+set Groups[BB16B] :=BreidablikB1B16 StjarnanB2B16 FSIIndlandBB16 ValurBB16 ThrotturBB16;
+set Groups[AA14B] :=FloroAB14 BreidablikA1B14 IAAB14 FjolnirAB14 IRAB14 ValurAB14;
+set Groups[AB14B] :=FSIIndlandAB14 BreidablikA2B14 AftureldingAB14 FylkirAB14 SelfossAB14 ThrotturAB14;
+set Groups[BA14B] :=IABB14 FjolnirB1B14 FylkirB1B14 ValurBB14 VolsungurBB14;
+set Groups[BB14B] :=StjarnanB1B14 BreidablikBB14 SelfossBB14 ThrotturBB14 FjolnirB2B14;
+set Groups[BC14B] :=AftureldingBB14 KRBB14 StjarnanB2B14 FylkirB2B14 HotturBB14;
+set Groups[CA14B] :=StjarnanC1B14 AftureldingCB14 FjolnirC1B14 BreidablikC2B14 ValurCB14 TindastollCB14;
+set Groups[CB14B] :=BreidablikC1B14 KRCB14 FylkirCB14 IRCB14 StjarnanC2B14 GrindavikCB14 FjolnirC2B14;
+set Groups[AA16G] :=ThrotturAG16 FylkirAG16 AusturlandAG16 BreidablikAG16 VikingurAG16 LiverpoolAG16;
+set Groups[BA16G] :=BreidablikBG16 VikingurBG16 FylkirBG16 AusturlandBG16 KABG16;
+set Groups[AA14G] :=ValurAG14 FramAG14 IAAG14 FylkirAG14;
+set Groups[AB14G] :=BreidablikAG14 StjarnanAG14 GrindavikAG14 ThrotturAG14;
+set Groups[BA14G] :=StjarnanBG14 ValurBG14 ThrotturBG14 AusturlandBG14 IRBG14 TindastollBG14;
+set Groups[BB14G] :=BreidablikBG14 FylkirBG14 VolsungurBG14 KABG14 RVKBG14 IABG14;

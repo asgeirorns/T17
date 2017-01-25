@@ -1,4 +1,4 @@
-#Tournament Scheduling for ReyCup
+#Tournament Scheduling 
 #Author:Asgeir Orn Sigurpalsson
 #Version: Beta 0.0.1
 #Keyrsla: /Users/asgeirornsigurpalsson/Desktop/untitled\ folder\ 2/Keyrsla/glpk-4.60/examples/glpsol --check --math Tournament.mod  -d teams.dat -d groups.dat -d fields.dat  --wlp Tourin.lp
